@@ -3,8 +3,8 @@
 ![image](https://user-images.githubusercontent.com/32879152/38644110-1110a1f2-3da5-11e8-8d84-5c3c3c0d4ff4.png)
 
 * **Track:** _Common Core_
-* **Empresa:** _Laboratoria_
-* **Enlace:** [Enlace al proyecto](https://superliza.github.io/swapi/)
+* **Empresa:** _[Laboratoria](http://www.laboratoria.la/)_
+* **Enlace:** _[Enlace al proyecto](https://superliza.github.io/swapi/)_
 
 ---
 
