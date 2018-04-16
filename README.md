@@ -24,7 +24,7 @@ Se hacen peticiones a la base de Datos de Star Wars usando la API.
 
 ---
 
-# Capturas:
+## Capturas:
 
 ![Captura 1](assets/images/screenshot-1.png)
 ![Captura 2](assets/images/screenshot-2.png)
